@@ -1,0 +1,7 @@
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\7-konwersje_typow\ProjTypeConvert\ProjTypeConvert\bin\Debug\ProjTypeConvert.exe.config
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\7-konwersje_typow\ProjTypeConvert\ProjTypeConvert\bin\Debug\ProjTypeConvert.exe
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\7-konwersje_typow\ProjTypeConvert\ProjTypeConvert\bin\Debug\ProjTypeConvert.pdb
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\7-konwersje_typow\ProjTypeConvert\ProjTypeConvert\obj\Debug\ProjTypeConvert.csprojResolveAssemblyReference.cache
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\7-konwersje_typow\ProjTypeConvert\ProjTypeConvert\obj\Debug\ProjTypeConvert.csproj.CoreCompileInputs.cache
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\7-konwersje_typow\ProjTypeConvert\ProjTypeConvert\obj\Debug\ProjTypeConvert.exe
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\7-konwersje_typow\ProjTypeConvert\ProjTypeConvert\obj\Debug\ProjTypeConvert.pdb
